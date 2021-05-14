@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![aikonaomie GitHub Stats](https://github-readme-stats.vercel.app/api?username=aikonaomie&bg_color=orange,red&show_icons=true)
+![aikonaomie GitHub Stats](https://github-readme-stats.vercel.app/api?username=aikonaomie&bg_color=DEG,orange,red&show_icons=true)
 
 ### Languages and Tools
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
